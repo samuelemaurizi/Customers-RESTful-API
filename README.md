@@ -5,20 +5,24 @@
 ### API Endpoints
 
 ###### Customer Routes
+
 - GET /customers
 - GET /customers/:id
 - POST (Protected) /customers
 - PUT (Protected) /customers/:id
 - DELETE (Protected) /customers/:id
+
 ###### User Routes
+
 - POST /register
 - POST /auth
 
 ###### Quick Start
+
 ```
-\ # Install dependencies
+\# Install dependencies
 npm install
 
-\ # Serve on localhost:3000
+\# Serve on localhost:3000
 npm start
 ```
