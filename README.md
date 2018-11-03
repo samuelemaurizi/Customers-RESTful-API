@@ -20,9 +20,9 @@
 ###### Quick Start
 
 ```
-\# Install dependencies
+&#35 Install dependencies
 npm install
 
-\# Serve on localhost:3000
+&#35 Serve on localhost:3000
 npm start
 ```
